@@ -10,7 +10,7 @@ window.addEventListener("DOMContentLoaded", () => {
 
   const loadInterval = setInterval(() => {
     addLoad();
-  }, 5);
+  }, 30);
 
   function addLoad() {
     load++;
